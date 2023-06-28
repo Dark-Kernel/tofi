@@ -136,7 +136,7 @@ tweak them to look correct on your display.
 [`themes/dmenu`](themes/dmenu)
 ![dmenu theme screenshot](screenshot_dmenu.png)
 
-[`themes/dmenu`](themes/minimal_dmenu)
+[`themes/minimal_dmenu`](themes/minimal_dmenu)
 ![minimal_dmenu theme screenshot](minimal_dmenu.png)
 
 [`themes/dos`](themes/dos)
